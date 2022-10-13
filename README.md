@@ -1,6 +1,6 @@
 - Hi, I’m @by-sknight
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=by-sknight&show_icons=true&theme=nightowl)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=by-sknight&count_private=true&show_icons=true&theme=nightowl)
 
 ![](https://komarev.com/ghpvc/?username=by-sknight&color=blueviolet)
 
