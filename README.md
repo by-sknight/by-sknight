@@ -5,5 +5,5 @@
 ![](https://komarev.com/ghpvc/?username=by-sknight&color=blueviolet)
 
 Supported by 
-[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-[GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
+*[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)*, 
+*[GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)*
