@@ -4,8 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=by-sknight&color=blueviolet)
 
-![](https://img.shields.io/badge/Tools-CLion-blueviolet)
-![](https://img.shields.io/badge/Tools-PyCharm-blueviolet)
+![](https://img.shields.io/badge/Tools-CLion-blueviolet?logo=clion)
+![](https://img.shields.io/badge/Tools-PyCharm-blueviolet?logo=pycharm)
 
 Supported by 
 *[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)*, 
