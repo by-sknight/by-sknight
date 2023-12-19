@@ -11,8 +11,9 @@ I'm by-sknight, a backend developer primarily using the C++ programming language
 
 ![](https://komarev.com/ghpvc/?username=by-sknight&color=blueviolet)
 
-![](https://img.shields.io/badge/Tools-CLion-blueviolet?logo=clion)
-![](https://img.shields.io/badge/Tools-PyCharm-blueviolet?logo=pycharm)
+[![](https://img.shields.io/badge/IDE-CLion-blueviolet?logo=clion)](https://www.jetbrains.com/clion/)
+[![](https://img.shields.io/badge/IDE-PyCharm-blueviolet?logo=pycharm)](https://www.jetbrains.com/pycharm)  
+[![](https://img.shields.io/badge/EDITOR-VisualStudioCode-blueviolet?logo=visualstudiocode&logoColor=007AAC)](https://code.visualstudio.com/)
 
 Supported by 
 *[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)*, 
